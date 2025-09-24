@@ -5,9 +5,13 @@ A responsive and user-friendly Car Rental System web application that allows use
 📌 Features
 
 🏎️ Browse Cars – Explore different cars available for rent.
+
 📅 Booking System – Select cars based on date & availability.
+
 🖼️ Dynamic Banners & UI – Multiple banner images to display offers and categories.
+
 🔍 Search & Filter – Find cars by category, model, or price.
+
 📱 Responsive Design – Works smoothly across devices.
 
 📂 Project Structure
