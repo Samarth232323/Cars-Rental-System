@@ -1,7 +1,9 @@
 🚗 Cars Rental System
+
 A responsive and user-friendly Car Rental System web application that allows users to browse, book, and manage rental cars seamlessly. This project is designed to showcase UI/UX design, front-end development, and system flow for a car rental business.
 
 📌 Features
+
 🏎️ Browse Cars – Explore different cars available for rent.
 📅 Booking System – Select cars based on date & availability.
 🖼️ Dynamic Banners & UI – Multiple banner images to display offers and categories.
@@ -9,6 +11,7 @@ A responsive and user-friendly Car Rental System web application that allows use
 📱 Responsive Design – Works smoothly across devices.
 
 📂 Project Structure
+
 Cars-Rental-System/
 │── README.md              # Project documentation  
 │── apple.png              # Apple logo asset  
@@ -25,5 +28,7 @@ Cars-Rental-System/
 ⚙️ Tech Stack
 
 Frontend: HTML5, CSS3, JavaScript
+
 Design Assets: PNG/JPG images (banners, logos, icons)
+
 Deployment: GitHub Pages / Any static hosting
